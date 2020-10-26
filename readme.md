@@ -1,3 +1,5 @@
+## this project is only educational, laravel stopped solving security issues at version 5.5 in the middle of 2020
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
